@@ -10,3 +10,4 @@ sabiendo que para poder hacerlo debe ser mayor que 3 a~nos y ser hembra.*/
 Console.WriteLine("Hello, World!");
 Yaguar gato = new Yaguar();
 gato.YaguarReg();
+gato.madre();
